@@ -25,9 +25,7 @@ WITH
 ```
 SELECT * FROM hive_datasource.employees;
 ```
-
-[![select-from-hive.png](https://i.postimg.cc/rpXTn76c/select-from-hive.png)](https://postimg.cc/WdnxtWbf)
-
+[![Screenshot-from-2023-11-04-14-11-31.png](https://i.postimg.cc/NfhYf1pL/Screenshot-from-2023-11-04-14-11-31.png)](https://postimg.cc/DmcRxbVK)
 ### Results
 
 Drop a remark based on your observation.
