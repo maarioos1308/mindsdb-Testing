@@ -24,7 +24,7 @@ WITH
     
     ```
     SELECT *
-    FROM impala_datasource.employees;;
+    FROM impala_datasource.employees;
     ```
 ![](select_local_impala.png)
 
